@@ -1,0 +1,5 @@
+region,total_revenue,total_quantity,total_orders,unique_customers,unique_products,avg_order_value
+East,5779.94,14,10,10,5,577.99
+North,4849.93,13,10,10,5,484.99
+South,4088.0,18,10,10,5,408.8
+West,4586.5,13,10,10,5,458.65
